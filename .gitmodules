@@ -1,0 +1,6 @@
+[submodule "CPSC-6300-notebooks"]
+	path = CPSC-6300-notebooks
+	url = git@github.com:cpsc6300/notebooks.git
+[submodule "classroom"]
+	path = classroom
+	url = git@github.com:cpsc6300/ps01-daneography.git
