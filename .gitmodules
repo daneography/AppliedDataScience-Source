@@ -4,3 +4,6 @@
 [submodule "ps01-work"]
 	path = ps01-work
 	url = git@github.com:cpsc6300/ps01-daneography.git
+[submodule "ps02-work"]
+	path = ps02-work
+	url = git@github.com:cpsc6300/ps02-daneography.git
