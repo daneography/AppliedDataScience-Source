@@ -7,3 +7,6 @@
 [submodule "ps02-work"]
 	path = ps02-work
 	url = git@github.com:cpsc6300/ps02-daneography.git
+[submodule "ADS-Project"]
+	path = ADS-Project
+	url = git@github.com:cpsc6300/course-project-dane-and-deyrel.git
